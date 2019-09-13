@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'InstaAPP',
     'imagekit',
+    'rest_framework',
+    'api',
 ]
 
 MIDDLEWARE = [
